@@ -1,0 +1,9 @@
+http://localhost:2621/log
+
+{
+  "date": "2026-01-20",
+  "amount": 450.5,
+  "type": "intake",
+  "category": "lunch",
+  "description": "Pasta and salad"
+}
